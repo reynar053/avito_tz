@@ -1,0 +1,458 @@
+{
+  "advertisements": [
+    {
+      "id": "1",
+      "name": "Стул старинный",
+      "description": "Не очень красивый",
+      "price": "2000",
+      "createdAt": "2024-09-12T20:49:06.117Z",
+      "views": 20,
+      "likes": 2,
+      "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif"
+    },
+    {
+      "id": "2",
+      "name": "Ведро снега",
+      "description": "Последняя возможность купить по выгодной цене!",
+      "price": 3000,
+      "createdAt": "2023-08-12T20:16:55.351Z",
+      "views": 77832,
+      "likes": 45666,
+      "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif"
+    },
+    {
+      "id": "3",
+      "name": "Плащ невидимка",
+      "price": "10000000",
+      "createdAt": "2024-08-12T20:16:55.351Z",
+      "views": 900,
+      "likes": 19,
+      "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+      "description": "Буп",
+      "image": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif"
+    },
+    {
+      "name": "Коверр",
+      "description": "Стильный модный, как у бабушки в деревне :)))",
+      "createdAt": "2024-06-12T20:16:55.351Z",
+      "likes": 0,
+      "views": 0,
+      "price": "5000",
+      "image": "imageUrl",
+      "id": "4",
+      "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F6%2FPersian-Cat-PNG-Image-HD-180x180.png&f=1&nofb=1&ipt=6046cc5f8eb100aa4aaf8d34f147f6d9848b7ff65d3915d26a7fff85170effa7&ipo=images"
+    },
+    {
+      "id": "5",
+      "name": "Носки",
+      "price": 6000,
+      "createdAt": "2024-06-12T20:16:55.351Z",
+      "views": 0,
+      "likes": 0,
+      "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif"
+    },
+    {
+      "id": "6",
+      "name": "Картонная коробка",
+      "description": "Прочная.",
+      "price": 7000,
+      "createdAt": "2024-04-12T20:16:55.351Z",
+      "views": 1,
+      "likes": 0,
+      "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif"
+    },
+    {
+      "id": "7",
+      "name": "Угловой диван",
+      "description": "Стих для привлечения внимания: дама сдавала в багаж диван, чемодан, саквояж, картину, корзину, картонку и маленькую собачонку. выдали даме на станции четыре зеленых квитанции о том, что получен багаж: диван, чемодан, саквояж, картина, корзина, картонка и маленькая собачонка. вещи везут на перрон. кидают в открытый вагон. готово. уложен багаж: диван, чемодан, саквояж, картина, корзина, картонка и маленькая собачонка. но только раздался звонок, удрал из вагона щенок. хватились на станции дно: потеряно место одно. в испуге считают багаж: диван, чемодан, саквояж, картина, корзина, картонка… — товарищи! где собачонка? вдруг видят: стоит у колес огромный взъерошенный пес. поймали его — и в багаж, туда, где лежал саквояж, картина, корзина, картонка, где прежде была собачонка. приехали в город житомир. носильщик пятнадцатый номер везет на тележке багаж: диван, чемодан, саквояж, картину, корзину, картонку, а сзади ведут собачонку. собака-то как зарычит, а барыня как закричит: — разбойники! воры! уроды! собака — не той породы! швырнула она чемодан, ногой отпихнула диван, картину, корзину, картонку… — отдайте мою собачонку! — позвольте, мамаша! на станции, согласно багажной квитанции, от вас получили багаж: диван, чемодан, саквояж, картину, корзину, картонку и маленькую собачонку. однако за время пути собака могла подрасти!",
+      "price": 999,
+      "createdAt": "2024-08-12T14:16:55.351Z",
+      "views": 20000,
+      "likes": 1,
+      "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif"
+    },
+    {
+      "id": "8",
+      "name": "Новый айфон",
+      "price": 100000,
+      "createdAt": "2024-08-12T12:16:55.351Z",
+      "views": 200000,
+      "likes": 302,
+      "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif"
+    },
+    {
+      "id": "2e29",
+      "name": "Ноутбук",
+      "description": "AMD ноутбук",
+      "price": "3000",
+      "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Ffit%2Fc%2F96%2F96%2F1*TzfP1ghe_d994dWtFWvaGg.jpeg&f=1&nofb=1&ipt=ecf949e86385ac4cc20c36aa1b0032cbcc87a6ea79d47e379ac8bb117c1955a7&ipo=images"
+    },
+    {
+      "id": "c030",
+      "name": "Стол",
+      "description": "Белый",
+      "price": "600",
+      "imageUrl": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconseeker.com%2Fpng%2F128%2Ffarm%2Fcat-1.png&f=1&nofb=1&ipt=37f20066b74326f91453344eea920946fcdaebb02ba39fb1d981c7c2153c9ccb&ipo=images",
+      "createdAt": "2024-09-12T18:21:03.420Z"
+    },
+    {
+      "id": "a8c1",
+      "name": "Наушники",
+      "description": "Громкие",
+      "price": "50000",
+      "imageUrl": "",
+      "createdAt": "2024-09-12T20:44:43.702Z"
+    },
+    {
+      "id": "79c2",
+      "name": "Наушники",
+      "description": "Красивые",
+      "price": "500",
+      "imageUrl": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.v3wall.com%2Fwallpaper%2Fsmall%2F1001%2Fsmall_20100105094734345858.jpg&f=1&nofb=1&ipt=acef30cba270670069e2ed5d9014f073f7db84eac25294ccc5ee88b36353811a&ipo=images",
+      "createdAt": "2024-09-12T20:52:11.213Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "status": 0,
+      "createdAt": "2024-08-12T20:20:55.351Z",
+      "finishedAt": "",
+      "total": 214000,
+      "deliveryWay": "mail",
+      "items": [
+        {
+          "id": "8",
+          "name": "Новый айфон",
+          "price": 100000,
+          "createdAt": "2024-08-12T12:16:55.351Z",
+          "views": 200000,
+          "likes": 302,
+          "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+          "count": 3
+        },
+        {
+          "id": "6",
+          "name": "Картонная коробка",
+          "description": "Почная.",
+          "price": 7000,
+          "createdAt": "2024-04-12T20:16:55.351Z",
+          "views": 1,
+          "likes": 0,
+          "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "status": 0,
+      "createdAt": "2024-08-12T20:20:55.351Z",
+      "finishedAt": "",
+      "total": 301000,
+      "deliveryWay": "mail",
+      "items": [
+        {
+          "id": "8",
+          "name": "Новый айфон",
+          "price": 100000,
+          "createdAt": "2024-08-12T12:16:55.351Z",
+          "views": 200000,
+          "likes": 302,
+          "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+          "count": 3
+        },
+        {
+          "id": "6",
+          "name": "Картонная коробка",
+          "description": "Почная.",
+          "price": 7000,
+          "createdAt": "2024-04-12T20:16:55.351Z",
+          "views": 1,
+          "likes": 0,
+          "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "status": 0,
+      "createdAt": "2024-08-12T20:20:55.351Z",
+      "finishedAt": "",
+      "total": 3140110,
+      "deliveryWay": "mail",
+      "items": [
+        {
+          "id": "8",
+          "name": "Новый айфон",
+          "price": 100000,
+          "createdAt": "2024-08-12T12:16:55.351Z",
+          "views": 200000,
+          "likes": 302,
+          "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+          "count": 3
+        },
+        {
+          "id": "6",
+          "name": "Картонная коробка",
+          "description": "Почная.",
+          "price": 7000,
+          "createdAt": "2024-04-12T20:16:55.351Z",
+          "views": 1,
+          "likes": 0,
+          "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "status": 0,
+      "createdAt": "2024-08-12T20:20:55.351Z",
+      "finishedAt": "",
+      "total": 3140120,
+      "deliveryWay": "mail",
+      "items": [
+        {
+          "id": "8",
+          "name": "Новый айфон",
+          "price": 100000,
+          "createdAt": "2024-08-12T12:16:55.351Z",
+          "views": 200000,
+          "likes": 302,
+          "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+          "count": 3
+        },
+        {
+          "id": "6",
+          "name": "Картонная коробка",
+          "description": "Почная.",
+          "price": 7000,
+          "createdAt": "2024-04-12T20:16:55.351Z",
+          "views": 1,
+          "likes": 0,
+          "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "status": 0,
+      "createdAt": "2024-08-12T20:20:55.351Z",
+      "finishedAt": "",
+      "total": 314130,
+      "deliveryWay": "mail",
+      "items": [
+        {
+          "id": "8",
+          "name": "Новый айфон",
+          "price": 100000,
+          "createdAt": "2024-08-12T12:16:55.351Z",
+          "views": 200000,
+          "likes": 302,
+          "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+          "count": 3
+        },
+        {
+          "id": "6",
+          "name": "Картонная коробка",
+          "description": "Почная.",
+          "price": 7000,
+          "createdAt": "2024-04-12T20:16:55.351Z",
+          "views": 1,
+          "likes": 0,
+          "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "status": 0,
+      "createdAt": "2024-08-12T20:20:55.351Z",
+      "finishedAt": "",
+      "total": 314014,
+      "deliveryWay": "mail",
+      "items": [
+        {
+          "id": "8",
+          "name": "Новый айфон",
+          "price": 100000,
+          "createdAt": "2024-08-12T12:16:55.351Z",
+          "views": 200000,
+          "likes": 302,
+          "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+          "count": 3
+        },
+        {
+          "id": "6",
+          "name": "Картонная коробка",
+          "description": "Почная.",
+          "price": 7000,
+          "createdAt": "2024-04-12T20:16:55.351Z",
+          "views": 1,
+          "likes": 0,
+          "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "status": 0,
+      "createdAt": "2024-08-12T20:20:55.351Z",
+      "finishedAt": "",
+      "total": 314000,
+      "deliveryWay": "mail",
+      "items": [
+        {
+          "id": "8",
+          "name": "Новый айфон",
+          "price": 100000,
+          "createdAt": "2024-08-12T12:16:55.351Z",
+          "views": 200000,
+          "likes": 302,
+          "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+          "count": 3
+        },
+        {
+          "id": "6",
+          "name": "Картонная коробка",
+          "description": "Почная.",
+          "price": 7000,
+          "createdAt": "2024-04-12T20:16:55.351Z",
+          "views": 1,
+          "likes": 0,
+          "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "status": 4,
+      "createdAt": "2024-08-12T20:20:55.351Z",
+      "finishedAt": "2024-08-12T20:25:55.351Z",
+      "total": 33000,
+      "deliveryWay": "sdek",
+      "items": [
+        {
+          "id": "2",
+          "name": "Ведро снега",
+          "description": "Последняя возможность купить по выгодной цене!",
+          "price": 3000,
+          "createdAt": "2023-08-12T20:16:55.351Z",
+          "views": 77832,
+          "likes": 45666,
+          "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+          "count": 10
+        },
+        {
+          "id": "5",
+          "name": "Носки",
+          "price": 6000,
+          "createdAt": "2024-06-12T20:16:55.351Z",
+          "views": 0,
+          "likes": 0,
+          "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "status": 4,
+      "createdAt": "2024-08-12T20:20:55.351Z",
+      "finishedAt": "2024-08-12T20:25:55.351Z",
+      "total": 33000,
+      "deliveryWay": "sdek",
+      "items": [
+        {
+          "id": "2",
+          "name": "Ведро снега",
+          "description": "Последняя возможность купить по выгодной цене!",
+          "price": 3000,
+          "createdAt": "2023-08-12T20:16:55.351Z",
+          "views": 77832,
+          "likes": 45666,
+          "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+          "count": 10
+        },
+        {
+          "id": "5",
+          "name": "Носки",
+          "price": 6000,
+          "createdAt": "2024-06-12T20:16:55.351Z",
+          "views": 0,
+          "likes": 0,
+          "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "status": 4,
+      "createdAt": "2024-08-12T20:20:55.351Z",
+      "finishedAt": "2024-08-12T20:25:55.351Z",
+      "total": 33000,
+      "deliveryWay": "sdek",
+      "items": [
+        {
+          "id": "2",
+          "name": "Ведро снега",
+          "description": "Последняя возможность купить по выгодной цене!",
+          "price": 3000,
+          "createdAt": "2023-08-12T20:16:55.351Z",
+          "views": 77832,
+          "likes": 45666,
+          "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+          "count": 10
+        },
+        {
+          "id": "5",
+          "name": "Носки",
+          "price": 6000,
+          "createdAt": "2024-06-12T20:16:55.351Z",
+          "views": 0,
+          "likes": 0,
+          "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "status": 4,
+      "createdAt": "2024-08-12T20:20:55.351Z",
+      "finishedAt": "2024-08-12T20:25:55.351Z",
+      "total": 33000,
+      "deliveryWay": "sdek",
+      "items": [
+        {
+          "id": "2",
+          "name": "Ведро снега",
+          "description": "Последняя возможность купить по выгодной цене!",
+          "price": 3000,
+          "createdAt": "2023-08-12T20:16:55.351Z",
+          "views": 77832,
+          "likes": 45666,
+          "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+          "count": 10
+        },
+        {
+          "id": "5",
+          "name": "Носки",
+          "price": 6000,
+          "createdAt": "2024-06-12T20:16:55.351Z",
+          "views": 0,
+          "likes": 0,
+          "imageUrl": "https://media1.tenor.com/m/JoxlVJ3Zod4AAAAd/angry-angry-cat.gif",
+          "count": 5
+        }
+      ]
+    }
+  ]
+}
